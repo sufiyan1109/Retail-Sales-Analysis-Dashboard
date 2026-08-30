@@ -90,7 +90,7 @@ Analyzes customer segments, product categories, and profitability.
 - Key Influencers
 - Regional Profit Distribution
 
-![Customer Dashboard](Customers and product insights.png)
+![Customers and Product Insights](Customers%20and%20product%20insights.png)
 
 ---
 
