@@ -74,7 +74,7 @@ Focused on sales performance across different years and products.
 - Delivery Efficiency
 - Average Delivery Days
 
-![Performance Dashboard](E:\retail analysis.png)
+![Performance Dashboard](Performance.png)
 
 ---
 
