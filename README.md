@@ -58,7 +58,7 @@ Provides a quick summary of business performance through KPIs and trend analysis
 - Category-wise Sales
 - Delivery Metrics
 
-![Executive Dashboard](Executive Overview.png)
+![Executive Overview](Executive%20Overview.png)
 
 ---
 
